@@ -14,7 +14,7 @@
 python Math_model_2.0_Nevins.py
 python Math_model_2.0_putv.py
 ```
-##Результаты вычислений
+## Результаты вычислений
 По средством выполнения программы будет создано 2 файла __T_el__coeff_power__Pfus_pb__XHe_Nevins.txt__ и
 __T_el__coeff_power__Pfus_pb__XHe_Putv.txt__
 
